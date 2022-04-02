@@ -11,7 +11,7 @@ enableRobotsTXT = true
 title = "Bioinfo Blog"
 
 theme = "mainroad"
-paginate = 5
+paginate = 10
 
 # メインメニュー
 [[Menus.main]]
@@ -23,7 +23,7 @@ paginate = 5
 
 # 自己紹介
 [Author]
-    name = "久野 朗広/Akihiro Kuno"
+    name = "久野 朗広"
     bio = ""
     avatar = "img/avatar.jpg"
 
@@ -34,6 +34,8 @@ paginate = 5
     authorbox = true
     post_meta = ["date", "categories"]
     twitter_cards = true
+    authorbox = false
+    toc = true
 
 # ページのテーマカラー
 [Params.style.vars]
