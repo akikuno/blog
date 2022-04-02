@@ -25,7 +25,7 @@ paginate = 5
 [Author]
     name = "久野 朗広/Akihiro Kuno"
     bio = ""
-    avatar = "img/avatar.png"
+    avatar = "img/avatar.jpg"
 
 [Params]
     customCSS = ["css/custom.css"]
