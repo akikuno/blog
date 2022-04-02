@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://akikuno.github.io/blog/hugo-blog-templatesitemap.xml
+Sitemap: https://akikuno.github.io/blog/sitemap.xml
