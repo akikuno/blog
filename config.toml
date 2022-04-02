@@ -1,5 +1,5 @@
 # 公開するページのURL
-baseURL = "https://akikuno.github.io/blog/hugo-blog-template"
+baseURL = "https://akikuno.github.io/blog/"
 
 languageCode = "ja"
 DefaultContentLanguage = "ja"
