@@ -4,6 +4,7 @@ baseURL = "https://akikuno.github.io/blog/"
 languageCode = "ja"
 DefaultContentLanguage = "ja"
 HasCJKLanguage = true
+summaryLength  = 120
 enableRobotsTXT = true
 
 # ブログのタイトル
@@ -28,7 +29,7 @@ paginate = 20
 
 # ページのテーマカラー
 [Params.style.vars]
-  highlightColor = "#e22d30"
+  highlightColor = "#8db1ab"
 
 # SNS等のユーザー名
 [Params.widgets.social]
@@ -38,6 +39,6 @@ paginate = 20
 [Params.sidebar]
     home = "right"
     list = "right"
-    single = "right"
-    widgets = ["search", "recent", "categories", "taglist", "social"]
+    single = "false"
+    widgets = ["search", "recent", "categories", "taglist", "social", "twitter"]
 
