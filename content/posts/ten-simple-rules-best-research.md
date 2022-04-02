@@ -11,10 +11,10 @@ Dr. Richard Hammingの**You and Your Research**という講演をもとに、科
 
 こちらに[元の文章](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)と、その後同じテーマの講演がYouTubeに残っています。
 
-{{< youtube a1zDuOPkMSw >}}
-
-
 [日本語訳](https://hiddenflower-s.tumblr.com/post/159208523633/%E8%AC%9B%E6%BC%94%E7%A0%94%E7%A9%B6%E3%81%AB%E3%81%A9%E3%81%86%E5%8F%96%E3%82%8A%E7%B5%84%E3%82%80%E3%81%B9%E3%81%8D%E3%81%8B%E3%83%AA%E3%83%81%E3%83%A3%E3%83%BC%E3%83%89w%E3%83%8F%E3%83%9F%E3%83%B3%E3%82%B0)も公開されています。
+
+
+{{< youtube a1zDuOPkMSw >}}
 
 ## ルール1：謙虚さを捨てる
 
