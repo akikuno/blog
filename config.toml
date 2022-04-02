@@ -1,5 +1,5 @@
 # 公開するページのURL
-baseURL = "https://kat0h.github.io/hugo-blog-template"
+baseURL = "https://akikuno.github.io/blog/hugo-blog-template"
 
 languageCode = "ja"
 DefaultContentLanguage = "ja"
@@ -32,8 +32,8 @@ paginate = 20
 
 # SNS等のユーザー名
 [Params.widgets.social]
-  twitter = "uvrub"
-  github = "kato-k"
+  twitter = "akikuno_sh"
+  github = "akikuno"
 
 [Params.sidebar]
     home = "right"
