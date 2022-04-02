@@ -31,7 +31,6 @@ paginate = 10
     customCSS = ["css/custom.css"]
     copyright = "Akihiro Kuno"
     readmore = true
-    authorbox = true
     post_meta = ["date", "categories"]
     twitter_cards = true
     authorbox = false
