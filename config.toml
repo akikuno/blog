@@ -35,7 +35,7 @@ paginate = 10
     twitter_cards = true
     authorbox = false
     toc = true
-    favicon = "img/favicon/favicon.ico"
+    favicon = "img/favicon.ico"
 
 # ページのテーマカラー
 [Params.style.vars]
