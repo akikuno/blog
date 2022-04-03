@@ -14,7 +14,7 @@ pygmentsUseClasses = true
 # ブログのタイトル
 title = "Bioinfo Blog"
 
-theme = "PaperMod"
+theme = "mainroad"
 paginate = 10
 
 # メインメニュー
@@ -44,7 +44,7 @@ paginate = 10
 
 # ページのテーマカラー
 [Params.style.vars]
-  highlightColor = "#8db1ab"
+  highlightColor = "#3b7960"
 
 # SNS等のユーザー名
 [Params.widgets.social]
