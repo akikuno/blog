@@ -7,10 +7,14 @@ HasCJKLanguage = true
 summaryLength  = 120
 enableRobotsTXT = true
 
+# Code pen
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
 # ブログのタイトル
 title = "Bioinfo Blog"
 
-theme = "theer"
+theme = "PaperMod"
 paginate = 10
 
 # メインメニュー
@@ -36,6 +40,7 @@ paginate = 10
     authorbox = false
     toc = true
     favicon = "img/favicon.ico"
+    math = true
 
 # ページのテーマカラー
 [Params.style.vars]
