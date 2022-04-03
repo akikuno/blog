@@ -10,7 +10,7 @@ enableRobotsTXT = true
 # ブログのタイトル
 title = "Bioinfo Blog"
 
-theme = "mainroad"
+theme = "theer"
 paginate = 10
 
 # メインメニュー
