@@ -3,6 +3,7 @@ title: "最高の研究をするためのルール10選"
 date: 2022-04-03
 categories: ["論文"]
 tags: ["Ten Simple Rules"]
+draft: true
 ---
 
 # はじめに
